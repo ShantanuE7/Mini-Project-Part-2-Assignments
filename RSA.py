@@ -61,7 +61,7 @@ def main():
         choice = input("Enter your choice: ")
 
         if choice == '1':
-            bits = int(input("Enter the number of bits for the key pair (recommended: 1024 or higher): "))
+            bits = int(input("Enter the number of bits for the key pair : "))
             public_key, private_key = generate_keypair(bits)
             print("Public Key (e, n):", public_key)
             print("Private Key (d, n):", private_key)
