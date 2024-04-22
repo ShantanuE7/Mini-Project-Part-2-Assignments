@@ -123,10 +123,10 @@ if __name__ == "__main__":
 """
 OUTPUT:
 
-Enter 8-bit plaintext (e.g., 10010111): 10110100
-Your plain Text is : [1, 0, 1, 1, 0, 1, 0, 0]
-Your cipher Text is : [1, 0, 1, 0, 1, 0, 1, 1]
-Your decrypted Text is : [0, 1, 0, 1, 0, 0, 0, 1]
+Enter 8-bit plaintext (e.g., 10010111): 10111100
+Your plain Text is : [1, 0, 1, 1, 1, 1, 0, 0]
+Your cipher Text is : [0, 0, 1, 0, 0, 0, 0, 1]
+Your decrypted Text is : [1, 0, 1, 1, 1, 1, 0, 0]
 
 """
   
